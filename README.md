@@ -1,2 +1,3 @@
 # More-Grace-Ltd
-Agency Website for Mora Grace ltd
+Agency Website for More Grace ltd.
+landing-page,newsleter option.
